@@ -13,4 +13,4 @@ It's needed to improve the distance formula, because it's not very accurate.
 
 - How it works:
 
-->![](images/test.png?raw=true =250x)<-
+![](images/test.png?raw=true)
